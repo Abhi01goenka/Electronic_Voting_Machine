@@ -1,1 +1,1 @@
-# Electronic_Voting_Machine
+# Electronic Voting Machine
